@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.5"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
